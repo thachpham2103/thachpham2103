@@ -40,11 +40,11 @@
 
 ---
 
-### 🐍 Snake Contributions
-
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/thachpham2103/thachpham2103/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/thachpham2103/thachpham2103/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
