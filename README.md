@@ -3,18 +3,24 @@
 <h1 align="center">Hi 👋, I'm Thạch Phạm</h1>
 <!-- <h3 align="center">A Java backend developer from Vietnam</h3> -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Lover;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
 - 🔭 I’m currently working on **HIT-HAUI Projects**
-- 🌱 I’m currently learning **Spring Boot, **
-- 📫 How to reach me: **thachpham2103@gmail.com**
+- 🌱 I’m currently learning **Spring Boot, Java**
+- 📫 Reach me at: **thachpham2103@gmail.com**
+
+---
 
 ### 🧰 Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -22,18 +28,44 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thachpham2103&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thachpham2103&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thachpham2103&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thachpham2103&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachpham2103&theme=radical" />
+</p>
+
+---
+
+### 🐍 Snake Contributions
+
+<p align="center">
+  <img src="https://github.com/thachpham2103/thachpham2103/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ### 🔗 Connect with me
 
-<p align="left">
-  <a href="https://www.facebook.com/thachpham2103" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="facebook" height="30" width="30" /></a>
+<p align="center">
+  <a href="mailto:thachpham2103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/thachpham2103" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
+---
+
+### 🧠 Fun Quote
+
+> “The only way to do great work is to love what you do.” – Steve Jobs
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thachpham2103&label=Profile%20views&color=0e75b6&style=flat" alt="thachpham2103" />
+</p>
