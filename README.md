@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Thạch Phạm</h1>
-<!-- <h3 align="center">A Java backend developer from Vietnam</h3> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Lover;Open+Source+Contributor" alt="Typing SVG" />
