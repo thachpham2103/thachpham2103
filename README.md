@@ -54,13 +54,6 @@
   <a href="mailto:thachpham2103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/thachpham2103" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-
----
-
-### 🧠 Fun Quote
-
-> “The only way to do great work is to love what you do.” – Steve Jobs
-
 ---
 
 ### 👀 Profile Views
